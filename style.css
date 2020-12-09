@@ -1,0 +1,57 @@
+@import url("container.css");
+
+body { 
+	color: black;
+	font-family: helvetica;
+	margin: 50px;
+    background:rgb(225, 215, 234);
+    border-radius: 4px;
+    padding: 60px;
+}
+
+h1 { 
+	color: rgb(195, 175, 213); 
+	font-family: helvetica;
+}
+
+h2{
+	color: rgb(195, 175, 213); 
+	font-family: helvetica;
+}
+
+h3 {
+	color: rgb(195, 175, 213); 
+	font-family: helvetica;
+}
+
+h4 {
+	color: rgb(195, 175, 213); 
+	font-family: helvetica;
+}
+
+img { 
+	width: 300px;
+}
+
+div {
+	margin: 40px;
+    padding: 20px;
+}
+
+.card { 
+	box-shadow: 1px 2px 8px grey; 
+	background: rgb(241, 246, 249);
+}
+
+a { 
+color: black 
+}
+
+.btn-blue {
+	background-color: black ;
+	text-decoration: none;
+	color: white ;
+	padding: 15px 20px ;
+	border-radius: 4px ;
+}
+
